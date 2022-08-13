@@ -1,4 +1,4 @@
-<img src="images/hand-waving-greetings-banner.gif" alt="Greetings!">
+<img src="images/hand-waving-greeting-banner.gif" alt="Greetings!">
 
 ---
 
