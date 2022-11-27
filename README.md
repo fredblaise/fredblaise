@@ -5,6 +5,7 @@
 This is example text
 
 [<img alt="alt_text" width="40px" src="images/image.png" />](https://www.google.com/)
+<a href="http://google.com/" target="_blank"><img alt="alt_text" width="40px" src="images/image.png" /></a>
 ---
 <p float="left">
   <img src="images/img1.png" width="33%" />
