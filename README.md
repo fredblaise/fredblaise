@@ -2,7 +2,7 @@
 
 ---
 
-Click on an image to view one of my projects!
+Click on an icon to view one of my projects!
 
 [<img alt="alt_text" width="40px" src="images/cuphead.gif" />](https://www.google.com/)
 ---
