@@ -2,7 +2,7 @@
 
 ---
 
-This is example text
+Click on the images to view my projects!
 
 [<img alt="alt_text" width="40px" src="images/image.png" />](https://www.google.com/)
 ---
@@ -11,5 +11,3 @@ This is example text
   <img src="images/img2.png" width="33%" /> 
   <img src="images/img3.png" width="33%" />
 </p>
-
-edit
