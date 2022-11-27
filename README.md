@@ -1,4 +1,4 @@
-<img src="images/github-banner.gif" alt="Greetings!">
+<img src="images/output-onlinegiftools.gif" alt="Greetings!">
 
 ---
 
