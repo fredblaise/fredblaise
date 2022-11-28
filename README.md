@@ -5,8 +5,14 @@
 - I am currently learning
 
 ## 🛠️ Tech & Tools I Use
-<a href="https://html.spec.whatwg.org/multipage/"><img src="images/html-icon.png" width="50px"></a>
-<img src="images/css-icon.png" width="50px">
-<img src="images/css-icon.png" width="50px">
-<img src="images/sass-icon.png" width="50px">
-<img src="images/js-icon.png" width="50px">
+<img src="images/html-icon.png" height="50px">
+<img src="images/css-icon.png" height="50px">
+<img src="images/sass-icon.png" height="50px">
+<img src="images/js-icon.png" height="50px">
+<img src="images/postgresql-icon.png" height="50px">
+<img src="images/express-icon.png" height="50px">
+<img src="images/react-icon.png" height="50px">
+<img src="images/node-js-icon.png" height="50px">
+<img src="images/mongodb-icon.png" height="50px">
+<img src="images/postman-icon.png" height="50px">
+<img src="images/git-icon.png" height="50px">
