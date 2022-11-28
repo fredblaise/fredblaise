@@ -9,7 +9,9 @@
   <img src="images/html-icon.png" height="50px">
   <img src="images/css-icon.png" height="50px">
   <img src="images/sass-icon.png" height="50px">
-  <img src="images/js-icon.png" height="50px">
+  <img src="images/javascript-icon.png" height="50px">
+  <img src="images/typescript-icon.png" height="50px">
+  <img src="images/python-icon.png" height="50px">
   <img src="images/postgresql-icon.png" height="50px">
   <img src="images/express-icon.png" height="50px">
   <img src="images/react-icon.png" height="50px">
