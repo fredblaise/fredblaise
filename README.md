@@ -1,13 +1,12 @@
-<img src="images/animated-github-banner.gif" alt="Greetings!">
+<img src="images/animated-github-banner.gif" alt="Hi, I'm Frederic Blaise.">
 
----
+## ⭐️ About Me
+- I'm a passionate full-stack developer
+- I am currently learning
 
-Click on an icon to view one of my projects!
-
-[<img alt="alt_text" width="40px" src="images/cuphead.gif" />](https://www.google.com/)
----
-<p float="left">
-  <img src="images/img1.png" width="32.5%" />
-  <img src="images/img2.png" width="32.5%" /> 
-  <img src="images/img3.png" width="32.5%" />
-</p>
+## 🛠️ Tech & Tools I Use
+<a href="https://html.spec.whatwg.org/multipage/"><img src="images/html-icon.png" width="50px"></a>
+<img src="images/css-icon.png" width="50px">
+<img src="images/css-icon.png" width="50px">
+<img src="images/sass-icon.png" width="50px">
+<img src="images/js-icon.png" width="50px">
