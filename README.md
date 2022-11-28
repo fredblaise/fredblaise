@@ -12,6 +12,8 @@
   <img src="images/javascript-icon.png" height="50px">
   <img src="images/typescript-icon.png" height="50px">
   <img src="images/python-icon.png" height="50px">
+  <img src="images/java-icon.png" height="50px">
+  <img src="images/cpp-icon.png" height="50px">
   <img src="images/postgresql-icon.png" height="50px">
   <img src="images/express-icon.png" height="50px">
   <img src="images/react-icon.png" height="50px">
