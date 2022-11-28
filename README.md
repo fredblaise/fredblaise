@@ -9,6 +9,7 @@
   <img src="images/html-icon.png" height="50px">
   <img src="images/css-icon.png" height="50px">
   <img src="images/sass-icon.png" height="50px">
+  <img src="images/bootstrap-icon.png" height="50px">
   <img src="images/javascript-icon.png" height="50px">
   <img src="images/typescript-icon.png" height="50px">
   <img src="images/python-icon.png" height="50px">
