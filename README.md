@@ -4,7 +4,7 @@
 - Aspiring full-stack developer
 - I am currently learning...
 
-## 🛠️ Tech & Tools I Use
+## 🛠️ Tech & Tools I've Used
 <p>
   <img src="images/html-icon.png" height="50px">
   <img src="images/css-icon.png" height="50px">
