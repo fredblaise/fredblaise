@@ -11,8 +11,8 @@
   <img src="images/sass-icon.png" height="35px">
   <img src="images/bootstrap-icon.png" height="35px">
   <img src="images/javascript-icon.png" height="35px">
-  <img src="images/python-icon.png" height="35px">
   <img src="images/react-icon.png" height="35px">
+  <img src="images/python-icon.png" height="35px">
   <img src="images/django-icon.png" height="35px">
   <img src="images/sqlite-icon.png" height="35px">
   <img src="images/java-icon.png" height="35px">
