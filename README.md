@@ -6,17 +6,17 @@
 
 ## 🛠️ Tech & Tools I've Used
 <p>
-  <img src="images/html-icon.png" height="35px">
-  <img src="images/css-icon.png" height="35px">
-  <img src="images/sass-icon.png" height="35px">
-  <img src="images/bootstrap-icon.png" height="35px">
-  <img src="images/javascript-icon.png" height="35px">
-  <img src="images/react-icon.png" height="35px">
-  <img src="images/python-icon.png" height="35px">
-  <img src="images/django-icon.png" height="35px">
-  <img src="images/sqlite-icon.png" height="35px">
-  <img src="images/java-icon.png" height="35px">
-  <img src="images/cpp-icon.png" height="35px">
-  <img src="images/git-icon.png" height="35px">
+  <img src="images/html-logo.png" height="35px">
+  <img src="images/css-logo.png" height="35px">
+  <img src="images/sass-logo.png" height="35px">
+  <img src="images/bootstrap-logo.png" height="35px">
+  <img src="images/javascript-logo.png" height="35px">
+  <img src="images/react-logo.png" height="35px">
+  <img src="images/python-logo.png" height="35px">
+  <img src="images/django-logo.png" height="35px">
+  <img src="images/sqlite-logo.png" height="35px">
+  <img src="images/java-logo.png" height="35px">
+  <img src="images/cpp-logo.png" height="35px">
+  <img src="images/git-logo.png" height="35px">
 </p>
   
