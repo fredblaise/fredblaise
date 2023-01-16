@@ -5,6 +5,7 @@
 - I am currently learning intermediate styling with CSS
 
 ## 🛠️ Tech & Tools I've Used
+<p>
   <img src="images/html-logo.png" alt="html" height="35px">
   <img src="images/css-logo.png" alt="css" height="35px">
   <img src="images/sass-logo.png" alt="sass" height="35px">
@@ -21,4 +22,4 @@
   <img src="images/java-logo.png" alt="java" height="35px">
   <img src="images/cpp-logo.png" alt="c plus plus" height="35px">
   <img src="images/git-logo.png" alt="git" height="35px">
-  
+</p>
