@@ -3,7 +3,7 @@
 ## ⭐️ About Me
 My name is Fred and I am an aspiring full-stack developer. On this profile, you'll find various projects that I've worked on.
 
-I have a passion for web development and enjoy building projects with HTML, CSS, JavaScript, React, Python, and Django.
+I have a passion for web development and enjoy building projects with React, Tailwind CSS, and Django.
 
 My goal is to continue learning new technologies and build amazing products. Feel free to check out my work and contact me if you have any questions or comments! 
 
