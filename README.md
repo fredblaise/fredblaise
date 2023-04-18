@@ -18,6 +18,7 @@ My goal is to continue learning new technologies and keep building amazing exper
   <img src="images/python-logo.png" alt="python" height="35px">
   <img src="images/django-logo.png" alt="django" height="35px">
   <img src="images/sqlite-logo.png" alt="sqlite" height="35px">
+  <img src="images/postgresql-logo.png" alt="postgresql" height="35px">
   <img src="images/java-logo.png" alt="java" height="35px">
   <img src="images/cpp-logo.png" alt="c plus plus" height="35px">
   <img src="images/git-logo.png" alt="git" height="35px">
