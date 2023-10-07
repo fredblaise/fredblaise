@@ -13,6 +13,7 @@ My goal is to continue learning new technologies and keep building amazing exper
   <img src="images/css-logo.png" alt="css" height="35px">
   <img src="images/tailwind-css-logo.png" alt="tailwind css" height="35px">
   <img src="images/javascript-logo.png" alt="javascript" height="35px">
+  <img src="images/typescript-logo.png" alt="javascript" height="35px">
   <img src="images/node-logo.png" alt="node" height="35px">
   <img src="images/react-logo.png" alt="react" height="35px">
   <img src="images/python-logo.png" alt="python" height="35px">
